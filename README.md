@@ -2,7 +2,7 @@
 <small>410686005 通訊四 李冠達<p align="right">2020.9.27</p></small>
 ---
 
-首先因為需要用到$\sin(.)$與$\mbox{floor}(.)$等函數，因此需要匯入<math.h>檔，如下程式碼：
+首先因為需要用到$\sin(.)$與 $\mbox{floor}(.)$ 等函數，因此需要匯入<math.h>檔，如下程式碼：
 ```C
 #include<stdio.h>
 #include<stdlib.h>
